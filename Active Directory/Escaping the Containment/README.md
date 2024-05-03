@@ -15,3 +15,17 @@ Connection Link :
 **[https://cnalab.selu.edu/](https://cnalab.selu.edu/)**
 
 Value : 150 points
+
+## Hints
+
+### Hint 1
+```
+Have you tried keyboard shortcuts?
+
+[Microsoft Keyboard Shortcuts](https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad)
+```
+
+### Hint 2
+```
+Did you know that you can run programs from the  address bar in file explorer?
+```

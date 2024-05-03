@@ -25,3 +25,16 @@ Connection Link :
 
 Value : 100 points
 
+## Hints
+
+### Hint 1
+```
+How does auto login work on a windows machine?
+```
+
+### Hint 2
+```
+When a user is set to login automaticly, their password is stored in plain text in the regestry. 
+
+[Automatic Logon on Windows](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
+```

@@ -25,3 +25,12 @@ Connection Link :
 **[https://cnalab.selu.edu/](https://cnalab.selu.edu/)**
 
 Value : 80 points
+
+## Hints
+
+### Hint 1
+```
+There are mutible ways to file information about a user in active directory.
+
+[Microsoft Documention](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771865(v=ws.11))
+```
