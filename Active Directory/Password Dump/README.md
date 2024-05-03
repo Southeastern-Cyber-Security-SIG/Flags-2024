@@ -40,3 +40,7 @@ I recommend using Mimikatz to dump the Hashes and John the Ripper to crack them.
 
 [How to use Mimikatz and John](https://sanjumalhotra26.medium.com/dumping-credentials-from-sam-file-using-mimikatz-and-cracking-with-john-the-ripper-and-hashcat-ce5bbf2f4f5a)
 ```
+
+
+##
+Created and Implimented by Joshua Cantu

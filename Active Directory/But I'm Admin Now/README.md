@@ -38,3 +38,6 @@ When a user is set to login automaticly, their password is stored in plain text 
 
 [Automatic Logon on Windows](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
 ```
+
+##
+Created and Implimented by Joshua Cantu
