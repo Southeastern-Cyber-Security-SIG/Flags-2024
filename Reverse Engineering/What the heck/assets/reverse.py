@@ -1,0 +1,5 @@
+exec("import random as x;import string as y;import sys as z;import time as w\n")
+exec("def u():\n    try:\n        import pydevd\n        raise Exception(x.random()*10)\n    except ImportError:\n        pass\n    w.sleep(x.randint(3, 7))\n")
+exec("def v(a):\n    b = '3ncrYpt3dK3y'\n    c = a[::-1]\n    if c == b:\n        print('XYWU 7z1o_1o_1x ' + ''.join(x.choice(y.ascii_lowercase) for _ in range(20)))\n        return True\n    else:\n        print('Incorrect input. Try again.')\n        return False\n")
+exec("def m():\n    u()\n    print('Welcome to the challenge!')\n    n = input('Enter the key: ')\n    v(n)\n")
+exec("if __name__ == '__main__':\n    m()\n")
